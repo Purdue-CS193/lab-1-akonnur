@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-#**Anirudh's first CS193 Lab**
+**#Anirudh's first CS193 Lab**
 
-###**Favorite things about Purdue CS193:-**
+**Favorite things about Purdue CS193:-**
 1. Computers
 2. Informative
 3. Fun
